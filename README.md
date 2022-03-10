@@ -1,0 +1,1 @@
+# Fa-a-uma-fun-o-que-receba-10-valores-e-retorne-o-quadrado-da-soma-deles-
